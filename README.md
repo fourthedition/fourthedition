@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=My%20Profile&fontSize=70&animation=fadeIn)
+
+<!-- <p align="center">
+<a href="https://github.com/fourthedition">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fourthedition&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fourthedition&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p> -->
+
 <!--
 **fourthedition/fourthedition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
