@@ -9,7 +9,7 @@
 </a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
 
 
 <!--
