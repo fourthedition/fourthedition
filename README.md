@@ -2,8 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=My%20Profile&fontSize=60&animation=fadeIn)
 
-![sirawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=fourthedition&show_icons=true)
+![Sirawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=fourthedition&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fourthedition&layout=compact)](https://github.com/fourthedition/github-readme-stats)
 
 
 <!--
