@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=My%20Profile&fontSize=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=My%20Profile&fontSize=60&animation=fadeIn)
 
 <!-- <p align="center">
 <a href="https://github.com/fourthedition">
