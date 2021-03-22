@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Hello,%20My%20name%20is%20Sirawit%20B.&fontSize=40&animation=fadeIn&fontColor=ffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Hello,%20My%20name%20is%20Sirawit%20B.&fontSize=30&animation=fadeIn&fontColor=ffff)
 ## Hi there 👋
 
 #### GitHub Stats Card
