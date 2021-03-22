@@ -1,8 +1,8 @@
 <p align="center">
- <h2 align="center">GitHub Profile</h2>
+ <h1 align="center">GitHub Profile</h1>
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Hello,%20My%20name%20is%20Sirawit%20B.&fontSize=40&animation=fadeIn&fontColor=ffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Hello,%20My%20name%20is%20Sirawit%20B.&fontSize=30&animation=fadeIn&fontColor=ffff)
 
 #### GitHub Stats Card
 <p align="center">
