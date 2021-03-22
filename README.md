@@ -1,10 +1,8 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Profile</h2>
- <p align="center">Sirawit B.</p>
 </p>
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Hi%20there%20👋.&fontSize=30&animation=fadeIn&fontColor=ffff)
-## 
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=Hello,%20My%20name%20is%20Sirawit%20B.&fontSize=40&animation=fadeIn&fontColor=ffff)
 
 #### GitHub Stats Card
 <p align="center">
