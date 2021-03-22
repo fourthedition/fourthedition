@@ -6,6 +6,7 @@
 <a href="https://github.com/parametprame">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fourthedition&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fourthedition&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=fourthedition&theme=radical"/>
 </a>
 </p>
 
