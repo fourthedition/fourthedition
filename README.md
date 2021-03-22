@@ -9,6 +9,8 @@
 </a>
 </p>
 
+![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=100&section=footer)
+
 
 <!--
 **fourthedition/fourthedition** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
