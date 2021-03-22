@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=My%20Profile&fontSize=60&animation=fadeIn&fontColor=ffff)
-## Hi there 👋
+## Sirawit B. 
 
 #### GitHub Stats Card
 <p align="center">
