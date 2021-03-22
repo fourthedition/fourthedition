@@ -1,7 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=My%20Profile&fontSize=60&animation=fadeIn)
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&text=My%20Profile&fontSize=60&animation=fadeIn)
-
+#### GitHub Stats Card
 <p align="center">
 <a href="https://github.com/parametprame">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fourthedition&show_icons=true&theme=radical"/>
