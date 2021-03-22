@@ -9,7 +9,6 @@
 </a>
 </p>
 
-[![Sirawit's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fourthedition)]
 
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=50&section=footer)
